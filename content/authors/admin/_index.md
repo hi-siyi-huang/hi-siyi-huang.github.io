@@ -41,7 +41,7 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/Siyi-H
+    url: https://github.com/hi-siyi-huang
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hi-siyi-huang/
   - icon: academicons/google-scholar
