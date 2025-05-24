@@ -2,9 +2,6 @@
 # Display name
 title: Siyi Huang
 
-# Avatar
-avatar: "/uploads/avatar2x.jpg"
-
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
