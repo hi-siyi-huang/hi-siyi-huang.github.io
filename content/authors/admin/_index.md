@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hi-siyi-huang/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=J1ULJ-cAAAAJ
+    url: https://scholar.google.com/citations?user=0GUAp-QyeZcC
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-2917-383X
 
